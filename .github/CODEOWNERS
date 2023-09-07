@@ -1,0 +1,13 @@
+# Questo è un commento.
+# I seguenti utenti sono i code owners per tutto il repository.
+# * @user1 @user2
+* @Applied-OpenSource
+
+# Solo l'utente3 sarà il code owner per il file README.md.
+# /README.md @user3
+
+# L'utente4 e l'utente5 saranno i code owners per tutti i file nella directory 'docs/'.
+# /docs/ @user4 @user5
+
+# Puoi anche specificare team come code owners. -> Non è il nostro caso
+# /src/ @org/team-name
